@@ -6,3 +6,6 @@ Users can view numerical statistics as well as the visualized data from the year
 
 
 
+
+
+
