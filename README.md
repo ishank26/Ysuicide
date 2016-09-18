@@ -7,7 +7,10 @@ This app utilises open datasets provided by Open Government Data (OGD) Platform 
 
 
 ###Screens
-![screen1]("https://github.com/ishank26/Ysuicide/blob/master/ys1.jpg") 
-![screen2]("https://github.com/ishank26/Ysuicide/blob/master/ys2.jpg") 
-![screen3]("https://github.com/ishank26/Ysuicide/blob/master/ys3.jpg") 
-![screen4]("https://github.com/ishank26/Ysuicide/blob/master/ys4.jpg") 
+![screen1](https://github.com/ishank26/Ysuicide/blob/master/ys1.jpg) 
+
+![screen2](https://github.com/ishank26/Ysuicide/blob/master/ys2.jpg) 
+
+![screen3](https://github.com/ishank26/Ysuicide/blob/master/ys3.jpg) 
+
+![screen4](https://github.com/ishank26/Ysuicide/blob/master/ys4.jpg) 
